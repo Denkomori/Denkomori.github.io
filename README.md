@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>My First HTML Page</title>
@@ -6,6 +5,6 @@
 <body>
     <h1>Welcome!</h1>
     <p>This is my first web page.</p>
-    <a href="https://www.example.com">Visit Example</a>
+
 </body>
 </html>
